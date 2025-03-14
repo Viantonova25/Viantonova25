@@ -3,4 +3,4 @@
 ## Junior Manual QA Engineer
 
 ## Languages and Tools
-![SQL](https://img.shields.io/badge/any_text-you_like-blue)
+![SQL](https://img.shields.io/badge/SQL)
