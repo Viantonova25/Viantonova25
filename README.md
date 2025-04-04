@@ -2,11 +2,13 @@
 
 ## Junior Manual QA Engineer
 
-## Languages and Tools
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=&logoColor=47C5FB)
-![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=097CDB)
-![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=&logoColor=F8C52C)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=F88C00)
+<h1 align="center">Привет 👋, я Виолетта</h1>
+<h3 align="center">Я ручной тестировщик, готов внести свой вклад в мир качественного программного обеспечения. В современном мире технологии развиваются с невероятной скоростью, надежность и качество продуктов становятся ключевыми факторами успеха. Я стремлюсь обеспечить совершенный пользовательский опыт, выявляя и допуская ошибки до того, как они дойдут до конечного пользователя. Мой подход к проведению тестирования основан на внимательном рассмотрении деталей и тщательном просмотре изображений пользователей. Я изучаю каждую функциональность, проверяю</h3>
 
+<h3 align="left">Связаться со мной:</h3>
+<p align="left">
+<a href="https://instagram.com/vita_antonova25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vita_antonova25" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Языки и инструменты:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
